@@ -2,16 +2,17 @@
 Desafio criado com intuito de avaliar o conhecimento técnico em relação a automação de testes de front-end.
 
 ## Descrição
-Hoje, é comum as aplicações serem desenvolvidas para diversas plataformas (Android, iOS, Website) e consumirem uma webservice para adicionar uma camada de segurança, redução de código, entre outros benefícios.
+Hoje, é comum as aplicações serem desenvolvidas para diversas plataformas (Android, iOS, Website) e consumirem um webservice para adicionar uma camada de segurança, redução de código, entre outros benefícios.
 Deste modo, além de realizar testes no front-end ou no app mobile, é importante adicionar testes de serviço para obter maior qualidade no produto que está sendo desenvolvido.
+Para esta primeira avaliação será considerado somente os testes automatizados voltado para WEB.
 
 ## Avaliação WEB SITE
 Com base no projeto desenvolvido, foi concedido um pequeno e simples framework de testes WEB sem nenhuma implementação, de modo que o foco seja criar a implementação dos cenários citados abaixo no site: http://automationpractice.com/index.php.
 
 **Cenários**
 1. Validar funcionalidade de cadastro de usuários com cenários positivos e negativos.
-2. Validar funcionalidade de login com cenário positivo e negativo.
-3. Validar funcionalidade de fechamento de pedido com cenário positivo e negativo. 
+2. Validar funcionalidade de login com cenários positivo e negativo.
+3. Validar funcionalidade de fechamento de pedido com cenários positivo e negativo. 
 
 **Diferencial:**
 - Utilizar o conceito de Page-Objects com SitePrism e implementar possiveis cenários que não foram citados para testar outras funcionalidades da loja.
