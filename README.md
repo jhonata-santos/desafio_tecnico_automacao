@@ -19,6 +19,14 @@ Com base no projeto desenvolvido, foi concedido um pequeno e simples framework d
 - Identificar pontos que poderiam ser melhorados na estrutura do projeto seja para ganho de velociadade na execução de testes, melhor organização e etc...
 - Evidênciar com prints pontos importantes dos testes
 
+**O que será avaliado**
+1. Utilização correta do GIT
+2. Validação implementada nos testes
+3. Os cenários terão que passar com sucesso
+4. Legibilidade e clareza de código
+5. Escrita de BDD
+6. Levantamento de cenários
+
 **Requerido:**
 Subir o projeto no github. O versionamento do projeto faz parte da avaliação e projetos enviados por outros meios não serão avaliados. Deixar o repositório público ou conceder permissão para acesso.
 
