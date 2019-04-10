@@ -1,4 +1,4 @@
-# Desafio de Automação de Testes
+# Desafio de Automação de Testes WEB
 Desafio criado com intuito de avaliar o conhecimento técnico em relação a automação de testes de front-end.
 
 ## Descrição
@@ -6,20 +6,21 @@ Hoje, é comum as aplicações serem desenvolvidas para diversas plataformas (An
 Deste modo, além de realizar testes no front-end ou no app mobile, é importante adicionar testes de serviço para obter maior qualidade no produto que está sendo desenvolvido.
 
 ## Avaliação WEB SITE
-Com base no projeto desenvolvido, foi concedido um pequeno e simples framework de testes Front-end sem nenhuma implementação, de modo que o foco seja criar uma implementação dos cenários citados abaixo.
+Com base no projeto desenvolvido, foi concedido um pequeno e simples framework de testes WEB sem nenhuma implementação, de modo que o foco seja criar a implementação dos cenários citados abaixo no site: http://automationpractice.com/index.php.
 
 **Cenário 1:**
-- Realize uma automação com cenário positivo e negativo de um cadastro de usuário no site: http://automationpractice.com/index.php. Valide a mensagem de cadastro com sucesso e com falha.
+- Validar funcionalidade de cadastro de usuários com cenários positivos e negativos.
 
 **Cenário 2**
-- Criar um cenário de login positivo e negativo dado que tenha um usuário cadastrado.
+- Validar funcionalidade de login com cenário positivo e negativo.
 
 **Cenário 3**
-- Faça um pedido de qualquer produto na loja e tire um print da ultima parte do fluxo mostrando o pedido finalizado. 
+- Validar funcionalidade de fechamento de pedido com cenário positivo e negativo. 
 
 **Diferencial:**
 - Utilizar o conceito de Page-Objects com SitePrism e implementar possiveis cenários que não foram citados para testar outras funcionalidades da loja.
 - Identificar pontos que poderiam ser melhorados na estrutura do projeto seja para ganho de velociadade na execução de testes, melhor organização e etc...
+- Evidênciar com prints pontos importantes dos testes
 
 **Requerido:**
 Subir o projeto no github. O versionamento do projeto faz parte da avaliação e projetos enviados por outros meios não serão avaliados. Deixar o repositório público ou conceder permissão para acesso.
